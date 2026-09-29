@@ -1,1 +1,0 @@
-# maxwell-s-equation.py
